@@ -1,5 +1,6 @@
 import numpy as np
 print("Enter the coefficients a, b and c")
+
 a, b, c = map(float, input().split())
 
 delta = b*b - 4*a*c
