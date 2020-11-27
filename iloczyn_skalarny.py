@@ -1,0 +1,1 @@
+def scalar_product(a, b)

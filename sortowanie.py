@@ -1,15 +1,15 @@
 import numpy as np
 
-def sort_fun(tab):
-    n = len(tab)
+def sort_fun(t):
+    n = len(t)
     for i in range(0, n-1):
         for j in range (1, n-1):
-            if tab[j-1] > tab[j]:
-                x = tab[j]
-                tab[j] = tab[j-1]
-                tab[j-1] = x
+            if t[j-1] > t[j]:
+                x = t[j]
+                t[j] = t[j-1]
+                t[j-1] = x
 
-    return tab
+    return t
 
 def main():
     t = []
