@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="626cef4c-00d3-4df3-820c-1467ddcdc998" name="Default Changelist" comment="Sortowanie">
+    <list default="true" id="626cef4c-00d3-4df3-820c-1467ddcdc998" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/suma_macierzy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sortowanie.py" beforeDir="false" afterPath="$PROJECT_DIR$/sortowanie.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,24 +23,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="6" />
+          <entry key="py" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="6" />
+          <entry key="Python" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1381" />
-          <entry key="txt" value="39" />
+          <entry key="py" value="2376" />
+          <entry key="txt" value="65" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="39" />
-          <entry key="Python" value="1381" />
+          <entry key="PLAIN_TEXT" value="65" />
+          <entry key="Python" value="2376" />
         </counts>
       </usages-collector>
     </session>
@@ -79,14 +79,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sortowanie.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <marker date="1606484424630" expanded="true" signature="250:255" ph="..." />
-              </folding>
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="16" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -94,8 +91,24 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/iloczyn_skalarny.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="23" selection-end-column="23" />
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <marker date="1606485157400" expanded="true" signature="25:30" ph="..." />
+                <marker date="1606485157400" expanded="true" signature="203:208" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/suma_macierzy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+              <folding>
+                <marker date="1606487754939" expanded="true" signature="281:572" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -119,8 +132,9 @@
         <option value="$PROJECT_DIR$/zapis_danych.py" />
         <option value="$PROJECT_DIR$/ilosc_plikow.py" />
         <option value="$PROJECT_DIR$/rownanie_kwadratowe.py" />
-        <option value="$PROJECT_DIR$/iloczyn_skalarny.py" />
         <option value="$PROJECT_DIR$/sortowanie.py" />
+        <option value="$PROJECT_DIR$/iloczyn_skalarny.py" />
+        <option value="$PROJECT_DIR$/suma_macierzy.py" />
       </list>
     </option>
   </component>
@@ -164,7 +178,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sortowanie">
+  <component name="RunManager" selected="Python.suma_macierzy">
+    <configuration name="iloczyn_skalarny" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python2020_KrzysztofKumka" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iloczyn_skalarny.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="rownanie_kwadratowe" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python2020_KrzysztofKumka" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -207,7 +242,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wprowadzanie_danych" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="suma_macierzy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python2020_KrzysztofKumka" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,7 +254,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wprowadzanie_danych.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/suma_macierzy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,17 +285,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.wprowadzanie_danych" />
       <item itemvalue="Python.zapis_danych" />
       <item itemvalue="Python.rownanie_kwadratowe" />
       <item itemvalue="Python.sortowanie" />
+      <item itemvalue="Python.iloczyn_skalarny" />
+      <item itemvalue="Python.suma_macierzy" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.suma_macierzy" />
+        <item itemvalue="Python.iloczyn_skalarny" />
         <item itemvalue="Python.sortowanie" />
         <item itemvalue="Python.rownanie_kwadratowe" />
         <item itemvalue="Python.zapis_danych" />
-        <item itemvalue="Python.wprowadzanie_danych" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +319,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606484141401</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Sortowanie">
+      <created>1606484506964</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606484506964</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Iloczyn skalarny">
+      <created>1606485191222</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606485191222</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -313,7 +364,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test nazewnictwa" />
-    <option name="LAST_COMMIT_MESSAGE" value="test nazewnictwa" />
+    <MESSAGE value="Sortowanie" />
+    <MESSAGE value="Iloczyn skalarny" />
+    <option name="LAST_COMMIT_MESSAGE" value="Iloczyn skalarny" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ilosc_plikow.py">
@@ -333,13 +386,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/iloczyn_skalarny.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rownanie_kwadratowe.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -347,12 +393,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/iloczyn_skalarny.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1606485157400" expanded="true" signature="25:30" ph="..." />
+            <marker date="1606485157400" expanded="true" signature="203:208" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sortowanie.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suma_macierzy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
           <folding>
-            <marker date="1606484424630" expanded="true" signature="250:255" ph="..." />
+            <marker date="1606487754939" expanded="true" signature="281:572" ph="..." />
           </folding>
         </state>
       </provider>
