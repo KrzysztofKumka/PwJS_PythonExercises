@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="626cef4c-00d3-4df3-820c-1467ddcdc998" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sortowanie.py" afterDir="false" />
+    <list default="true" id="626cef4c-00d3-4df3-820c-1467ddcdc998" name="Default Changelist" comment="Sortowanie">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rownanie_kwadratowe.py" beforeDir="false" afterPath="$PROJECT_DIR$/rownanie_kwadratowe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sortowanie.py" beforeDir="false" afterPath="$PROJECT_DIR$/sortowanie.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,22 +23,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="5" />
+          <entry key="py" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="5" />
+          <entry key="Python" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1346" />
+          <entry key="py" value="1381" />
+          <entry key="txt" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1346" />
+          <entry key="PLAIN_TEXT" value="39" />
+          <entry key="Python" value="1381" />
         </counts>
       </usages-collector>
     </session>
@@ -81,11 +82,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sortowanie.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
-                <marker date="1606483788480" expanded="true" signature="269:274" ph="..." />
+                <marker date="1606484424630" expanded="true" signature="250:255" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iloczyn_skalarny.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="23" selection-start-column="23" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -109,6 +119,7 @@
         <option value="$PROJECT_DIR$/zapis_danych.py" />
         <option value="$PROJECT_DIR$/ilosc_plikow.py" />
         <option value="$PROJECT_DIR$/rownanie_kwadratowe.py" />
+        <option value="$PROJECT_DIR$/iloczyn_skalarny.py" />
         <option value="$PROJECT_DIR$/sortowanie.py" />
       </list>
     </option>
@@ -264,6 +275,14 @@
       <option name="presentableId" value="Default" />
       <updated>1603640528009</updated>
     </task>
+    <task id="LOCAL-00001" summary="test nazewnictwa">
+      <created>1606484141400</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606484141401</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -292,6 +311,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test nazewnictwa" />
+    <option name="LAST_COMMIT_MESSAGE" value="test nazewnictwa" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ilosc_plikow.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -310,6 +333,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/iloczyn_skalarny.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/rownanie_kwadratowe.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -319,10 +349,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sortowanie.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
-            <marker date="1606483788480" expanded="true" signature="269:274" ph="..." />
+            <marker date="1606484424630" expanded="true" signature="250:255" ph="..." />
           </folding>
         </state>
       </provider>
