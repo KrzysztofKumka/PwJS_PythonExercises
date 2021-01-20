@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<movie>
+    <name>Movie library</name>
+    <movie_info Title="Film1">
+        
+        <Year>1999</Year>
+    </movie_info>
+
+    <movie_info Title="Film2">
+        
+        <Year>2010</Year>
+    </movie_info>
+
+    <movie_info Title="Film3">
+        
+        <Year>2023</Year>
+    </movie_info>
+</movie>

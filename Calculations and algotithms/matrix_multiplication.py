@@ -1,23 +1,8 @@
 import numpy as np
 
+
 def matrix_product(a, b):
-    m = len(a)
-    n = len(a[0])
-    result = []
-
-    for i in range(0,m):
-        tj1 = []
-        for j in range(0, m):
-            tj1.append(0)
-        result.append(tj1)
-
-    #print(result)
-
-    for i in range(0, m):
-        for j in range(0, n):
-            for k in range(0, m):
-                result[i][j] += a[i][k]*b[k][j]
-    return result
+    return np.matmul(a, b)
 
 def rand_matrix():
     ti1 = []

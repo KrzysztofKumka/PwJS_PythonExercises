@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Film1",
+        "review": "10/10"
+    },
+    {
+        "name": "Film2",
+        "review": "7/10"
+    },
+    {
+        "name": "Film3_appendfunction",
+        "review": "appendfuction works great"
+    }
+]

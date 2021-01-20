@@ -2,7 +2,6 @@ import numpy as np
 
 def matrix_sum(a, b):
     m = len(a)
-    #n = len(b)
     result = []
 
     for i in range(0, m):
