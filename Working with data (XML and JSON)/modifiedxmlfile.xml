@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<movie>
+<?xml version="1.0" ?><movie>
     <name>Movie library</name>
     <movie_info Title="Film1">
-        <Description>10/10</Description>
+        <Description>Great movie</Description>
         <Year>1999</Year>
     </movie_info>
 
