@@ -1,4 +1,4 @@
-# Python2020_KrzysztofKumka
+# Python exercises
 Solutions for Python exercises.
 
 Krzysztof Kumka
