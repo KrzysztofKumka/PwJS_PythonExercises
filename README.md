@@ -1,5 +1,4 @@
 # Python exercises
-Solutions for Python exercises.
 
-Krzysztof Kumka
-Elektronika III rok
+Solutions for Python exercises.
+Electronics engineering, 3rd year.
